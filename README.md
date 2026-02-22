@@ -8,6 +8,7 @@
 
 
 SKILLS
+
 👉 Creative Tech Specialist
 👉 Frontend Developer & Digital Designer
 👉 Tech + Design + Marketing
