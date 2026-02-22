@@ -1,17 +1,17 @@
 👋 Hi, I'm Lauren
 
-🎯 Frontend Developer
-   Graphic Designer 
-   Digital Marketer
-   Based in Kenya
+🎯 Frontend Developer|
+   Graphic Designer |
+   Digital Marketer|
+   Based in Kenya|
    Passionate about Technology,      Creativity & Innovation
 
 
 SKILLS
 
-👉 Creative Tech Specialist
-👉 Frontend Developer & Digital Designer
-👉 Tech + Design + Marketing
+Creative Tech Specialist|
+Frontend Developer & Digital Designer|
+ Tech + Design + Marketing
 
 
 💻 Frontend Development
@@ -37,14 +37,15 @@ SKILLS
 
 📜 CERTIFICATIONS 
 
-🏆 Google Digital Marketing Certificate
-🏆 Graphic Design Certificate 
-🏆 Cybersecurity Certificate 
+Google Digital Marketing Certificate| Graphic Design Certificate |
+Cybersecurity Certificate 
 
 📫 Connect With Me
 
 📧 Email :nyakerariolauren@gmail.com
+
 💼 LinkedIn :https://www.linkedin.com/in/laurennyakerario
+
 📞 Phone :0716794527
 
 ⭐ Always learning. Always creating. Always improving.
